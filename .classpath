@@ -33,6 +33,6 @@
 			<attribute name="owner.project.facets" value="java"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="D:/workspace/fun_test/src/main/webapp/WEB-INF/lib/fun.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/fun_test/src/main/webapp/WEB-INF/lib/fun.jar" sourcepath="/fun"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
